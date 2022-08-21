@@ -1,0 +1,16 @@
+{
+    "name": "ankit",
+    "description": "This is sample library demo.",
+    "version": "1.0.1",
+    "author": {
+        "name": "Ankit Chamlagain",
+        "email": "ank33tch7@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ankeetch7/AngularLibraryCreationDemo.git"
+    },
+    "license": "Ankit",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts" 
+}
